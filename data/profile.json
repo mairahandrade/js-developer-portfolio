@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Maíra Andrade",
+  "photo": "https://media.licdn.com/dms/image/D4D03AQEkpfOt33WMdg/profile-displayphoto-shrink_200_200/0/1677169670433?e=1715212800&v=beta&t=e7sTtZ5w8CLhcE9Zkan_5JrATIsDt9Rq1X-k4Jv2Rtw",
+  "job": "",
+  "location": "Guararapes -SP",
+  "phone": "(18)99152-4071",
+  "email": "mairahandrade@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -13,23 +13,23 @@
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://github.com/mairahandrade/js-developer-portfolio/blob/main/assets/img/icons/tools/java.svg"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://github.com/mairahandrade/js-developer-portfolio/blob/main/assets/img/icons/tools/js.svg"
       },
       {
-        "name": "React",
+        "name": "Html",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
+        "name": "Css",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Github",
+        "logo": "https://github.com/mairahandrade/js-developer-portfolio/blob/main/assets/img/icons/github.svg"
       }
     ],
     "softSkills": [
@@ -42,9 +42,9 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (básico)",
+    "Espanhol (intermediário)"
+
   ],
   "portfolio": [
     {
@@ -60,13 +60,13 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Drogaria Total",
+      "period": "2017 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
+      "name": "Intersolid Software",
+      "period": "2010 - 2017",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     },
     {
